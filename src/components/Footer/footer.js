@@ -5,11 +5,11 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-      <div class="container">
-          <span class="text-muted">
-          <a href="https://github.com/AubreyBennett" class="fa fa-github"></a>
-          <a href="https://www.linkedin.com/in/aubrey-bennett-6908421b9/" class="fa fa-linkedin"></a>
-          <a href="https://twitter.com/Bennett_Over27" class="fa fa-twitter"></a>
+      <div className="container">
+          <span className="text-muted">
+          <a href="https://github.com/AubreyBennett" className="fa fa-github"></a>
+          <a href="https://www.linkedin.com/in/aubrey-bennett-6908421b9/" className="fa fa-linkedin"></a>
+          <a href="https://twitter.com/Bennett_Over27" className="fa fa-twitter"></a>
         </span>
         </div>
     </footer>
