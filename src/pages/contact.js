@@ -65,7 +65,6 @@ function Contact() {
                       </div>
                     </div>
                  </div>
-                  <div className="container">
                     <div className="row">
                       <div className="col-lg-12">
                         <div className="card">
@@ -74,7 +73,6 @@ function Contact() {
                          </div>
                         </div>
                       </div>
-                    </div>
                     </div>
                     <div className="card">
                       <ul className="list-group list-group-flush">
