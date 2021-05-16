@@ -1,5 +1,4 @@
 import React from 'react';
-// import Row from "../components/Row/row";
 
 function Portfolio() {
     return (
@@ -38,12 +37,12 @@ function Portfolio() {
             <div className="row">
                 <div className="col-lg-12">
                     <div className="card" style={{ width: "100%" }}>
-                        <img src="/logo192.png" className="card-img-top" alt="Responsive" />
+                        <img src="https://pbs.twimg.com/media/D4DDhd5XsAUJJYm.jpg" className="card-img-top" alt="Responsive" />
                         <div className="card-b">
                             <h5 className="card-title" style= {{textAlign: "center" }}>Password Generator</h5>
                             <p className="card-text" style= {{textAlign: "center" }}>Generates random passwords with the characters you
                             desire.</p>
-                            <a href="https://github.com/AubreyBennett/Password-Generator" className="card-link">Github link</a>
+                            <a href="https://github.com/AubreyBennett/Password-Generator" className="card-link" >Github link</a>
                             <a href="https://aubreybennett.github.io/Password-Generator/" className="card-link">Application link</a>
                         </div>
                     </div>
