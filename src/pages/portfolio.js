@@ -6,7 +6,7 @@ function Portfolio() {
             <div className="row">
                 <div className="col-lg-12">
                     <div className="card" style={{ width: "100%" }}>
-                        <img src="https://pbs.twimg.com/media/D4DDhd5XsAUJJYm.jpg" className="card-img-top" alt="Responsive" />
+                        <img src="../Assets/passme.jpg" className="card-img-top" alt="Responsive" />
                         <div className="card-b">
                             <h5 className="card-title" style= {{textAlign: "center" }}>Pass Me The Aux</h5>
                             <p className="card-text" style= {{textAlign: "center" }}>Music App that allows you to lookup an artist and a song by
@@ -22,7 +22,7 @@ function Portfolio() {
             <div className="row">
                 <div className="col-lg-12">
                     <div className="card" style={{ width: "100%" }}>
-                        <img src="https://pbs.twimg.com/media/D4DDhd5XsAUJJYm.jpg" className="card-img-top" alt="Responsive" />
+                        <img src="../Assets/workday.jpg" className="card-img-top" alt="Responsive" />
                         <div className="card-b">
                             <h5 className="card-title" style= {{textAlign: "center" }}>Workday Scheduler</h5>
                             <p className="card-text" style= {{textAlign: "center" }}>Daily planner that will help you manage your time
@@ -37,7 +37,7 @@ function Portfolio() {
             <div className="row">
                 <div className="col-lg-12">
                     <div className="card" style={{ width: "100%" }}>
-                        <img src="https://pbs.twimg.com/media/D4DDhd5XsAUJJYm.jpg" className="card-img-top" alt="Responsive" />
+                        <img src="../Assets/password.jpg" className="card-img-top" alt="Responsive" />
                         <div className="card-b">
                             <h5 className="card-title" style= {{textAlign: "center" }}>Password Generator</h5>
                             <p className="card-text" style= {{textAlign: "center" }}>Generates random passwords with the characters you
