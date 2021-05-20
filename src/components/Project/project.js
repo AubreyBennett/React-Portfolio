@@ -4,6 +4,7 @@ import React from 'react';
 function Project({ img, title, description, githublink, applink }) {
     return (
         <>
+        <div className="container">
        <div className="row">
                 <div className="col-lg-12">
                     <div className="card" style={{ width: "100%" }}>
@@ -18,6 +19,7 @@ function Project({ img, title, description, githublink, applink }) {
                         </div>
                     </div>
                 </div>
+            </div>
             </div>
         </>
     )
