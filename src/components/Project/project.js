@@ -7,7 +7,7 @@ function Project({ img, title, description, githublink, applink }) {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
-                        <div className="card" style={{ width: "100%" }}>
+                        <div className="card" style={{ width: "100%" , marginTop: "50px" }}>
                             <img src={img} className="card-img-top" alt="Responsive" />
                             <div className="card-b">
                                 <h5 className="card-title" style={{ textAlign: "center" }}>{title}</h5>
